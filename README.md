@@ -6,7 +6,7 @@
   </a>
 </p>
 
-> **EN TL;DR** — Fullstack developer working with TypeScript/Node, Python and TOTVS Protheus (ADVPL/TLPP). I self-host what I build: Docker, PostgreSQL, Redis and Caddy on a VPS I run myself.
+> **EN TL;DR** — TOTVS Protheus specialist (ADVPL/TLPP) who also works fullstack with TypeScript/Node and Python. I self-host what I build: Docker, PostgreSQL, Redis and Caddy on a VPS I run myself.
 
 ---
 
@@ -17,8 +17,8 @@
   <a href="mailto:tmmoreira93@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
 </p>
 
-- 👨‍💻 **Fullstack dev** — TypeScript/Node no backend, Python para automação e serviços.
-- 🔭 Também trabalho com **TOTVS Protheus**: ADVPL, TLPP e APIs REST.
+- 🔭 **Especialista TOTVS Protheus** — ADVPL, TLPP e APIs REST.
+- 👨‍💻 Também atuo **fullstack**: TypeScript/Node no backend, Python para automação e serviços.
 - 🛠 Infra é parte do trabalho, não um detalhe: **Docker, Linux, PostgreSQL, Redis, Caddy, Cloudflare** — tudo self-hosted num VPS que eu opero.
 - 📍 São Paulo – SP · remoto.
 - ⚡ Trilogia favorita: *O Senhor dos Anéis*.
@@ -27,18 +27,18 @@
 
 ## 🛠 Stack
 
+**TOTVS Protheus**
+
+![ADVPL](https://img.shields.io/badge/ADVPL-323330?style=for-the-badge&logoColor=white)
+![TLPP](https://img.shields.io/badge/TLPP-1e7a3b?style=for-the-badge&logoColor=white)
+![REST API](https://img.shields.io/badge/REST%20API-005AA0?style=for-the-badge&logoColor=white)
+
 **Web & Backend**
 
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node.js-5FA04E?style=for-the-badge&logo=nodedotjs&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Phaser](https://img.shields.io/badge/Phaser-8A2BE2?style=for-the-badge&logoColor=white)
-
-**TOTVS Protheus**
-
-![ADVPL](https://img.shields.io/badge/ADVPL-323330?style=for-the-badge&logoColor=white)
-![TLPP](https://img.shields.io/badge/TLPP-1e7a3b?style=for-the-badge&logoColor=white)
-![REST API](https://img.shields.io/badge/REST%20API-005AA0?style=for-the-badge&logoColor=white)
 
 **Infra & DB**
 
@@ -78,7 +78,7 @@
 
 ## 📬 Vamos conversar
 
-Aberto a conversar sobre projetos fullstack, integrações com TOTVS Protheus ou infra self-hosted. Me chama no LinkedIn ou manda um e-mail.
+Aberto a conversar sobre projetos TOTVS Protheus, desenvolvimento fullstack ou infra self-hosted. Me chama no LinkedIn ou manda um e-mail.
 
 <p>
   <a href="https://www.linkedin.com/in/tmmoreira93/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
