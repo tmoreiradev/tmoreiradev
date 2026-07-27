@@ -56,7 +56,7 @@
 <table align="center">
   <tr>
     <td>
-      <img src="https://gh-readme-stats.vercel.app/api?username=tmoreiradev&theme=github_dark&show_icons=true&hide_border=true&count_private=true&include_all_commits=true" alt="GitHub Stats" />
+      <img src="https://github-readme-stats-jet-three-92.vercel.app/api?username=tmoreiradev&theme=github_dark&show_icons=true&hide_border=true&count_private=true&include_all_commits=true" alt="GitHub Stats" />
     </td>
     <td>
       <img src="https://streak-stats.demolab.com/?user=tmoreiradev&theme=github-dark-blue&hide_border=true" alt="GitHub Streak" />
@@ -64,7 +64,7 @@
   </tr>
   <tr>
     <td colspan="2">
-      <img src="https://gh-readme-stats.vercel.app/api/top-langs/?username=tmoreiradev&theme=github_dark&hide_border=true&layout=compact&langs_count=8" alt="Top Languages" />
+      <img src="https://github-readme-stats-jet-three-92.vercel.app/api/top-langs/?username=tmoreiradev&theme=github_dark&hide_border=true&layout=compact&langs_count=8&size_weight=0.5&count_weight=0.5" alt="Top Languages" />
     </td>
   </tr>
   <tr>
