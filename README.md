@@ -78,7 +78,7 @@
 </p>
 
 <p align="center">
-  <img src="https://www.gitskins.com/api/section/heatmap?username=tmoreiradev&theme=github-dark&style=snake" alt="Contribution snake" width="100%" />
+  <img src="https://www.gitskins.com/api/section/heatmap?username=tmoreiradev&theme=github-dark&style=jet" alt="Contribution jet" width="100%" />
 </p>
 
 ---
