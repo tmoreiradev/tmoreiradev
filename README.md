@@ -60,7 +60,7 @@
 <table align="center">
   <tr>
     <td>
-      <img src="https://github-readme-stats-jet-three-92.vercel.app/api?username=tmoreiradev&theme=github_dark&show_icons=true&hide_border=true&count_private=true&include_all_commits=true" alt="GitHub Stats" />
+      <img src="https://github-readme-stats-jet-three-92.vercel.app/api?username=tmoreiradev&theme=github_dark&show_icons=true&hide_rank=true&hide_border=true&count_private=true&include_all_commits=true" alt="GitHub Stats" />
     </td>
     <td>
       <img src="https://streak-stats.demolab.com/?user=tmoreiradev&theme=github-dark-blue&hide_border=true" alt="GitHub Streak" />
