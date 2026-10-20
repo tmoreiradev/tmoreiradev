@@ -1,4 +1,6 @@
-<h1 align="center">Thiago Moreira</h1>
+<h1 align="center">
+  <img src="https://www.gitskins.com/api/section/wordmark?username=tmoreiradev&theme=github-dark&style=aura" alt="Thiago Moreira" width="100%" />
+</h1>
 
 <p align="center">
   <a href="https://git.io/typing-svg">
@@ -45,6 +47,14 @@
 
 ---
 
+## 🚀 Projetos
+
+<p align="center">
+  <img src="https://www.gitskins.com/api/section/projects?username=tmoreiradev&theme=github-dark&style=aura" alt="Projetos públicos" width="100%" />
+</p>
+
+---
+
 ## 📊 Dashboard
 
 <table align="center">
@@ -62,6 +72,14 @@
     </td>
   </tr>
 </table>
+
+<p align="center">
+  <img src="https://www.gitskins.com/api/section/city?username=tmoreiradev&theme=github-dark" alt="Contribution City: contribuições do último ano em 3D" width="100%" />
+</p>
+
+<p align="center">
+  <img src="https://www.gitskins.com/api/section/heatmap?username=tmoreiradev&theme=github-dark&style=snake" alt="Contribution snake" width="100%" />
+</p>
 
 ---
 
