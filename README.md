@@ -4,7 +4,7 @@
 
 <p align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=3200&pause=800&color=39D353&center=true&vCenter=true&width=560&lines=TOTVS+Protheus+Specialist+%7C+ADVPL+%26+TLPP;Fullstack+Dev+%7C+TypeScript%2C+Node+%26+Python;Self-hosted+infra%3A+Docker%2C+Postgres%2C+Redis" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=3200&pause=800&color=58A6FF&center=true&vCenter=true&width=560&lines=TOTVS+Protheus+Specialist+%7C+ADVPL+%26+TLPP;Fullstack+Dev+%7C+TypeScript%2C+Node+%26+Python;Self-hosted+infra%3A+Docker%2C+Postgres%2C+Redis" alt="Typing SVG" />
   </a>
 </p>
 
@@ -60,15 +60,15 @@
 <table align="center">
   <tr>
     <td>
-      <img src="https://github-readme-stats-jet-three-92.vercel.app/api?username=tmoreiradev&bg_color=0d1117&title_color=39d353&icon_color=39d353&text_color=c9d1d9&ring_color=39d353&show_icons=true&hide_border=true&count_private=true&include_all_commits=true" alt="GitHub Stats" />
+      <img src="https://github-readme-stats-jet-three-92.vercel.app/api?username=tmoreiradev&theme=github_dark&show_icons=true&hide_border=true&count_private=true&include_all_commits=true" alt="GitHub Stats" />
     </td>
     <td>
-      <img src="https://streak-stats.demolab.com/?user=tmoreiradev&background=0d1117&ring=39d353&fire=39d353&currStreakNum=39d353&sideNums=39d353&currStreakLabel=39d353&sideLabels=c9d1d9&dates=8b949e&stroke=30363d&hide_border=true" alt="GitHub Streak" />
+      <img src="https://streak-stats.demolab.com/?user=tmoreiradev&theme=github-dark-blue&hide_border=true" alt="GitHub Streak" />
     </td>
   </tr>
   <tr>
     <td colspan="2">
-      <img src="https://github-readme-stats-jet-three-92.vercel.app/api/top-langs/?username=tmoreiradev&bg_color=0d1117&title_color=39d353&icon_color=39d353&text_color=c9d1d9&ring_color=39d353&hide_border=true&layout=compact&langs_count=8&size_weight=0.5&count_weight=0.5" alt="Top Languages" />
+      <img src="https://github-readme-stats-jet-three-92.vercel.app/api/top-langs/?username=tmoreiradev&theme=github_dark&hide_border=true&layout=compact&langs_count=8&size_weight=0.5&count_weight=0.5" alt="Top Languages" />
     </td>
   </tr>
 </table>
@@ -93,5 +93,5 @@ Aberto a conversar sobre projetos TOTVS Protheus, desenvolvimento fullstack ou i
 </p>
 
 <p align="right">
-  <img src="https://komarev.com/ghpvc/?username=tmoreiradev&color=39d353&style=flat-square&label=Visitors" alt="Visitors" />
+  <img src="https://komarev.com/ghpvc/?username=tmoreiradev&color=58a6ff&style=flat-square&label=Visitors" alt="Visitors" />
 </p>
