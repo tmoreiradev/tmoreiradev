@@ -3,41 +3,70 @@
 </h1>
 
 <p align="center">
-  <strong>Tech Lead · Especialista TOTVS Protheus · Engenharia de Software com IA</strong>
+  <strong>Tech Lead · Engenharia de Software com IA · TOTVS Protheus (ADVPL/TLPP)</strong>
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=3200&pause=800&color=58A6FF&center=true&vCenter=true&width=560&lines=TOTVS+Protheus+%7C+ADVPL+%26+TLPP;AI+Engineering+%7C+LLMs%2C+Agents+%26+MCP;TypeScript%2C+Node%2C+Angular+%26+Python;Self-hosted+infra%3A+Docker%2C+Postgres%2C+Redis" alt="TOTVS Protheus, AI Engineering, TypeScript/Node/Python e infra self-hosted" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=3200&pause=800&color=58A6FF&center=true&vCenter=true&width=560&lines=AI+Engineering+%7C+LLMs%2C+Agents+%26+MCP;TOTVS+Protheus+%7C+ADVPL+%26+TLPP;TypeScript%2C+Node.js%2C+Angular+%26+Python;Self-hosted+infra%3A+Docker%2C+PostgreSQL%2C+Redis" alt="AI Engineering com LLMs, agentes e MCP; TOTVS Protheus; TypeScript, Node.js, Angular, Python e infraestrutura self-hosted" />
 </p>
 
-> **EN TL;DR** — Tech Lead and TOTVS Protheus specialist (ADVPL/TLPP) building software with AI: LLM agents, MCP and Claude Code wired into real delivery pipelines. Also TypeScript/Node, Angular and Python, and I run the infrastructure myself: Docker, PostgreSQL, Redis and Caddy.
+> **EN TL;DR** — Tech Lead with 10+ years in software engineering, applying generative AI and LLM agents to software delivery with Claude Code and MCP. Background in TOTVS Protheus (ADVPL/TLPP), TypeScript/Node.js, Angular and Python, and I run the infrastructure myself.
 
 ---
 
 ## 👋 Sobre mim
 
-- 🔭 **Especialista TOTVS Protheus** — ADVPL, TLPP e APIs REST.
-- 🤖 **Engenharia de software com IA** — agentes com LLM, MCP e Claude Code integrados ao fluxo de entrega: issue, código, revisão e CI.
-- 👨‍💻 **Fullstack**: TypeScript/Node e Angular (PO UI), Python para automação e serviços.
+Tech Lead na Apply System desde março de 2026, com mais de 10 anos em engenharia de software. Antes, TOTVS e Shoebiz (visão computacional com OpenCV). Trajetória completa no [LinkedIn](https://www.linkedin.com/in/tmmoreira93/).
+
+- 🤖 **Engenharia de software com IA generativa** — agentes com LLM, MCP e Claude Code no fluxo de entrega do time (detalhe abaixo).
+- 🧭 **Liderança técnica** — defino como o time entrega com agentes: padrão de issue, portões de revisão e CI obrigatório.
+- 🔭 **TOTVS Protheus** — ADVPL, TLPP, APIs REST e integrações com o ERP.
+- 👨‍💻 **Full-stack** — TypeScript/Node.js e Angular (PO UI) no produto, Python para automação e serviços.
 - 🛠 Infra é parte do trabalho, não um detalhe: opero minhas aplicações e bancos em servidores próprios com **Docker, Linux, PostgreSQL, Redis e Caddy**, com Cloudflare na borda.
-- 📍 São Paulo – SP · remoto.
+- 📍 São Paulo – SP · trabalho remoto.
 - ⚡ Trilogia favorita: *O Senhor dos Anéis*.
 
 ---
 
+## 🧠 IA na entrega, na prática
+
+Um pipeline em que agentes fazem o trabalho repetitivo e as pessoas ficam com as decisões:
+
+| Etapa | O agente faz | Portão |
+|---|---|---|
+| Issue | lê a issue e o código, com contexto via MCP | só entra na fila com critérios de aceite e label `ready-for-agent` |
+| Implementação | trabalha numa worktree isolada, uma branch por issue | não toca a `main` nem outras issues |
+| Pull request | abre o PR ligado à issue, com descrição e testes | proteção de branch: sem push direto, sem force push |
+| CI | lint, build e testes a cada push | merge só com CI verde e revisão |
+
+O ganho não é velocidade bruta: é chegar à revisão com o contexto montado e o diff pequeno.
+
+---
+
+## 🚀 Projetos
+
+<p align="center">
+  <img src="https://www.gitskins.com/api/section/projects?username=tmoreiradev&theme=github-dark&style=aura" alt="Repositórios públicos: protheus-docker, CRUD_rest-tlpp-api, discord-musicbot e pixoo-linear" width="100%" />
+</p>
+
+- [protheus-docker](https://github.com/tmoreiradev/protheus-docker) — Protheus (AppServer, DBAccess e License Server) em Docker com PostgreSQL: ambiente de teste reproduzível, sem VM.
+- [CRUD_rest-tlpp-api](https://github.com/tmoreiradev/CRUD_rest-tlpp-api) — API REST de clientes (SA1) em TLPP, em camadas.
+
+---
+
 ## 🛠 Stack
-
-**TOTVS Protheus**
-
-![ADVPL](https://img.shields.io/badge/ADVPL-323330?style=for-the-badge&logoColor=white)
-![TLPP](https://img.shields.io/badge/TLPP-1e7a3b?style=for-the-badge&logoColor=white)
-![REST API](https://img.shields.io/badge/REST%20API-005AA0?style=for-the-badge&logoColor=white)
 
 **IA**
 
 ![Claude Code](https://img.shields.io/badge/Claude%20Code-D97757?style=for-the-badge&logo=anthropic&logoColor=white)
 ![MCP](https://img.shields.io/badge/MCP-000000?style=for-the-badge&logo=modelcontextprotocol&logoColor=white)
 ![LLM Agents](https://img.shields.io/badge/LLM%20Agents-6E40C9?style=for-the-badge&logoColor=white)
+
+**TOTVS Protheus**
+
+![ADVPL](https://img.shields.io/badge/ADVPL-323330?style=for-the-badge&logoColor=white)
+![TLPP](https://img.shields.io/badge/TLPP-1e7a3b?style=for-the-badge&logoColor=white)
+![REST API](https://img.shields.io/badge/REST%20API-005AA0?style=for-the-badge&logoColor=white)
 
 **Web & Backend**
 
@@ -57,14 +86,6 @@
 
 ---
 
-## 🚀 Projetos
-
-<p align="center">
-  <img src="https://www.gitskins.com/api/section/projects?username=tmoreiradev&theme=github-dark&style=aura" alt="Projetos públicos" width="100%" />
-</p>
-
----
-
 ## 📊 Dashboard
 
 <table align="center">
@@ -73,12 +94,12 @@
       <img src="https://github-readme-stats-jet-three-92.vercel.app/api?username=tmoreiradev&theme=github_dark&show_icons=true&hide_rank=true&hide_border=true&count_private=true&include_all_commits=true" alt="Estatísticas do GitHub: commits, PRs, issues e estrelas" />
     </td>
     <td>
-      <img src="https://streak-stats.demolab.com/?user=tmoreiradev&theme=github-dark-blue&hide_border=true" alt="GitHub Streak" />
+      <img src="https://streak-stats.demolab.com/?user=tmoreiradev&theme=github-dark-blue&hide_border=true" alt="Sequência de dias com contribuições no GitHub" />
     </td>
   </tr>
   <tr>
     <td colspan="2">
-      <img src="https://github-readme-stats-jet-three-92.vercel.app/api/top-langs/?username=tmoreiradev&theme=github_dark&hide_border=true&layout=compact&langs_count=8&size_weight=0.5&count_weight=0.5" alt="Linguagens mais usadas nos repositórios" />
+      <img src="https://github-readme-stats-jet-three-92.vercel.app/api/top-langs/?username=tmoreiradev&theme=github_dark&hide_border=true&layout=compact&langs_count=8&size_weight=0.5&count_weight=0.5" alt="Distribuição de linguagens nos repositórios analisados" />
     </td>
   </tr>
 </table>
@@ -94,7 +115,7 @@
 
 ## 📬 Vamos conversar
 
-Aberto a conversar sobre projetos TOTVS Protheus, desenvolvimento fullstack ou infra self-hosted. Me chama no LinkedIn ou manda um e-mail.
+Vamos conversar sobre engenharia de software com IA, agentes com LLM, liderança técnica e TOTVS Protheus. Me chama no LinkedIn ou manda um e-mail.
 
 <p>
   <a href="https://www.linkedin.com/in/tmmoreira93/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
@@ -102,5 +123,5 @@ Aberto a conversar sobre projetos TOTVS Protheus, desenvolvimento fullstack ou i
 </p>
 
 <p align="right">
-  <img src="https://komarev.com/ghpvc/?username=tmoreiradev&color=58a6ff&style=flat-square&label=Visitors" alt="Visitors" />
+  <img src="https://komarev.com/ghpvc/?username=tmoreiradev&color=58a6ff&style=flat-square&label=Visitors" alt="Contador de visualizações do perfil" />
 </p>
