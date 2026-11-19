@@ -41,6 +41,8 @@ Um pipeline em que agentes fazem o trabalho repetitivo e as pessoas ficam com as
 
 O ganho não é velocidade bruta: é chegar à revisão com o contexto montado e o diff pequeno.
 
+Versão aberta e executável, com demo sem chave de API e os modos de falha que encontrei em uso real: **[agent-issue-pipeline](https://github.com/tmoreiradev/agent-issue-pipeline)**.
+
 ---
 
 ## 🚀 Projetos
@@ -49,6 +51,7 @@ O ganho não é velocidade bruta: é chegar à revisão com o contexto montado e
   <img src="https://www.gitskins.com/api/section/projects?username=tmoreiradev&theme=github-dark&style=aura" alt="Repositórios públicos: protheus-docker, CRUD_rest-tlpp-api, discord-musicbot e pixoo-linear" width="100%" />
 </p>
 
+- [agent-issue-pipeline](https://github.com/tmoreiradev/agent-issue-pipeline) — pipeline de agentes de código: gate de especificação, worker isolado, revisão por outro fornecedor, deploy com rollback; demo e CI sem chave de API.
 - [protheus-docker](https://github.com/tmoreiradev/protheus-docker) — Protheus (AppServer, DBAccess e License Server) em Docker com PostgreSQL: ambiente de teste reproduzível, sem VM.
 - [CRUD_rest-tlpp-api](https://github.com/tmoreiradev/CRUD_rest-tlpp-api) — API REST de clientes (SA1) em TLPP, em camadas.
 
