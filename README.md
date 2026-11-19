@@ -41,7 +41,7 @@ Um pipeline em que agentes fazem o trabalho repetitivo e as pessoas ficam com as
 
 O ganho não é velocidade bruta: é chegar à revisão com o contexto montado e o diff pequeno.
 
-Versão aberta e executável, com demo sem chave de API e os modos de falha que encontrei em uso real: **[agent-issue-pipeline](https://github.com/tmoreiradev/agent-issue-pipeline)**. Medi com um benchmark de 20 issues e testes de aceitação ocultos: o gate e o contrato `BLOCKED:` barraram ou escalaram 9 de 9 issues mal especificadas ou impossíveis; com revisão cruzada (Codex) foram 0 merges errados contra 1 sem revisão, ao custo de 3 bloqueios indevidos. Resultados, evidências e limites estão no repo.
+Versão aberta e executável, com demo sem chave de API e os modos de falha que encontrei em uso real: **[agent-issue-pipeline](https://github.com/tmoreiradev/agent-issue-pipeline)**. Medi com um benchmark de 20 issues e testes de aceitação ocultos: o gate e o contrato `BLOCKED:` barraram ou escalaram 9 de 9 issues mal especificadas ou impossíveis; com a versão atual da revisão cruzada (Codex) foram 19/20 resultados corretos, 1 aprovação falsa e 0 bloqueios indevidos. A primeira versão do revisor tinha 0 aprovações falsas, mas 3 bloqueios indevidos: o benchmark mostrou que os dois prompts trocaram um tipo de erro pelo outro. Resultados, evidências e limites estão no repo.
 
 ---
 
