@@ -118,7 +118,7 @@ Versão aberta e executável, com demo sem chave de API e os modos de falha que 
 
 ## 📬 Vamos conversar
 
-Vamos conversar sobre engenharia de software com IA, agentes com LLM, liderança técnica e TOTVS Protheus. Me chama no LinkedIn ou manda um e-mail.
+Vamos conversar sobre engenharia de software com IA, agentes com LLM, liderança técnica e TOTVS Protheus. Me chama no LinkedIn ou manda um e-mail. Dúvida técnica: abre uma **[discussion](https://github.com/tmoreiradev/protheus-docker/discussions)** no repositório do projeto, fica registrado e ajuda quem chega depois.
 
 <p>
   <a href="https://www.linkedin.com/in/tmmoreira93/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
