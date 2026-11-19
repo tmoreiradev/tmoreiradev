@@ -3,20 +3,23 @@
 </h1>
 
 <p align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=3200&pause=800&color=58A6FF&center=true&vCenter=true&width=560&lines=TOTVS+Protheus+Specialist+%7C+ADVPL+%26+TLPP;Fullstack+Dev+%7C+TypeScript%2C+Node+%26+Python;Self-hosted+infra%3A+Docker%2C+Postgres%2C+Redis" alt="Typing SVG" />
-  </a>
+  <strong>Tech Lead · Especialista TOTVS Protheus · Engenharia de Software com IA</strong>
 </p>
 
-> **EN TL;DR** — TOTVS Protheus specialist (ADVPL/TLPP) who also works fullstack with TypeScript/Node and Python. I self-host what I build: Docker, PostgreSQL, Redis and Caddy on a VPS I run myself.
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=3200&pause=800&color=58A6FF&center=true&vCenter=true&width=560&lines=TOTVS+Protheus+%7C+ADVPL+%26+TLPP;AI+Engineering+%7C+LLMs%2C+Agents+%26+MCP;TypeScript%2C+Node%2C+Angular+%26+Python;Self-hosted+infra%3A+Docker%2C+Postgres%2C+Redis" alt="TOTVS Protheus, AI Engineering, TypeScript/Node/Python e infra self-hosted" />
+</p>
+
+> **EN TL;DR** — Tech Lead and TOTVS Protheus specialist (ADVPL/TLPP) building software with AI: LLM agents, MCP and Claude Code wired into real delivery pipelines. Also TypeScript/Node, Angular and Python, and I run the infrastructure myself: Docker, PostgreSQL, Redis and Caddy.
 
 ---
 
 ## 👋 Sobre mim
 
 - 🔭 **Especialista TOTVS Protheus** — ADVPL, TLPP e APIs REST.
-- 👨‍💻 Também atuo **fullstack**: TypeScript/Node no backend, Python para automação e serviços.
-- 🛠 Infra é parte do trabalho, não um detalhe: **Docker, Linux, PostgreSQL, Redis, Caddy, Cloudflare** — tudo self-hosted num VPS que eu opero.
+- 🤖 **Engenharia de software com IA** — agentes com LLM, MCP e Claude Code integrados ao fluxo de entrega: issue, código, revisão e CI.
+- 👨‍💻 **Fullstack**: TypeScript/Node e Angular (PO UI), Python para automação e serviços.
+- 🛠 Infra é parte do trabalho, não um detalhe: opero minhas aplicações e bancos em servidores próprios com **Docker, Linux, PostgreSQL, Redis e Caddy**, com Cloudflare na borda.
 - 📍 São Paulo – SP · remoto.
 - ⚡ Trilogia favorita: *O Senhor dos Anéis*.
 
@@ -30,10 +33,17 @@
 ![TLPP](https://img.shields.io/badge/TLPP-1e7a3b?style=for-the-badge&logoColor=white)
 ![REST API](https://img.shields.io/badge/REST%20API-005AA0?style=for-the-badge&logoColor=white)
 
+**IA**
+
+![Claude Code](https://img.shields.io/badge/Claude%20Code-D97757?style=for-the-badge&logo=anthropic&logoColor=white)
+![MCP](https://img.shields.io/badge/MCP-000000?style=for-the-badge&logo=modelcontextprotocol&logoColor=white)
+![LLM Agents](https://img.shields.io/badge/LLM%20Agents-6E40C9?style=for-the-badge&logoColor=white)
+
 **Web & Backend**
 
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node.js-5FA04E?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 
 **Infra & DB**
@@ -60,7 +70,7 @@
 <table align="center">
   <tr>
     <td>
-      <img src="https://github-readme-stats-jet-three-92.vercel.app/api?username=tmoreiradev&theme=github_dark&show_icons=true&hide_rank=true&hide_border=true&count_private=true&include_all_commits=true" alt="GitHub Stats" />
+      <img src="https://github-readme-stats-jet-three-92.vercel.app/api?username=tmoreiradev&theme=github_dark&show_icons=true&hide_rank=true&hide_border=true&count_private=true&include_all_commits=true" alt="Estatísticas do GitHub: commits, PRs, issues e estrelas" />
     </td>
     <td>
       <img src="https://streak-stats.demolab.com/?user=tmoreiradev&theme=github-dark-blue&hide_border=true" alt="GitHub Streak" />
@@ -68,17 +78,16 @@
   </tr>
   <tr>
     <td colspan="2">
-      <img src="https://github-readme-stats-jet-three-92.vercel.app/api/top-langs/?username=tmoreiradev&theme=github_dark&hide_border=true&layout=compact&langs_count=8&size_weight=0.5&count_weight=0.5" alt="Top Languages" />
+      <img src="https://github-readme-stats-jet-three-92.vercel.app/api/top-langs/?username=tmoreiradev&theme=github_dark&hide_border=true&layout=compact&langs_count=8&size_weight=0.5&count_weight=0.5" alt="Linguagens mais usadas nos repositórios" />
     </td>
   </tr>
 </table>
 
 <p align="center">
-  <img src="./profile-3d-contrib/profile-night-view.svg" alt="Contribution City: contribuições do último ano em 3D" width="100%" />
-</p>
-
-<p align="center">
-  <img src="https://www.gitskins.com/api/section/heatmap?username=tmoreiradev&theme=github-dark" alt="Contribution heatmap" width="100%" />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="./profile-3d-contrib/profile-night-view.svg" />
+    <img src="./profile-3d-contrib/profile-green.svg" alt="Contribution City: contribuições do último ano em 3D" width="100%" />
+  </picture>
 </p>
 
 ---
