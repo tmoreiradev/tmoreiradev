@@ -53,6 +53,7 @@ Versão aberta e executável, com demo sem chave de API e os modos de falha que 
 
 - [agent-issue-pipeline](https://github.com/tmoreiradev/agent-issue-pipeline) — pipeline de agentes de código: gate de especificação, worker isolado, revisão por outro fornecedor, deploy com rollback; benchmark de 20 issues com testes ocultos, demo e CI sem chave de API.
 - [rtc-calculadora-mcp](https://github.com/tmoreiradev/rtc-calculadora-mcp) — servidor MCP que expõe a calculadora oficial da Reforma Tributária (CBS/IBS/IS, código aberto da Receita Federal) como ferramentas para agentes; avaliação com 30 cenários fictícios e a própria calculadora como gabarito: o mesmo modelo acertou 71% dos valores sozinho e 100% com o MCP.
+- [fiscal-rag-br](https://github.com/tmoreiradev/fiscal-rag-br) — RAG sobre a LC 214/2025, a NT 2025.002-RTC e o manual da NF-e que cita documento, artigo/campo/regra, versão e página, e se abstém fora do corpus; golden set de 69 perguntas anotadas: o reranking leva o trecho certo à 1ª posição em 82% das perguntas (51% com BM25), e o LLM local (Qwen3-4B) cita o trecho certo em 92% das respostas e recusa todas as perguntas de teste fora do corpus; avaliação no CI sem chave de API.
 - [protheus-docker](https://github.com/tmoreiradev/protheus-docker) — Protheus (AppServer, DBAccess e License Server) em Docker com PostgreSQL: ambiente de teste reproduzível, sem VM.
 - [CRUD_rest-tlpp-api](https://github.com/tmoreiradev/CRUD_rest-tlpp-api) — API REST de clientes (SA1) em TLPP, em camadas.
 
