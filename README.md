@@ -1,5 +1,5 @@
 <h1 align="center">
-  <img src="https://www.gitskins.com/api/section/wordmark?username=tmoreiradev&theme=github-dark&style=aura" alt="Thiago Moreira" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,100:1f6feb&height=170&section=header&text=Thiago%20Moreira&fontColor=ffffff&fontSize=52&animation=fadeIn" alt="Thiago Moreira" width="100%" />
 </h1>
 
 <p align="center">
@@ -74,11 +74,7 @@
 </table>
 
 <p align="center">
-  <img src="https://www.gitskins.com/api/section/city?username=tmoreiradev&theme=github-dark" alt="Contribution City: contribuições do último ano em 3D" width="100%" />
-</p>
-
-<p align="center">
-  <img src="https://www.gitskins.com/api/section/heatmap?username=tmoreiradev&theme=github-dark&style=jet" alt="Contribution jet" width="100%" />
+  <img src="https://www.gitskins.com/api/section/heatmap?username=tmoreiradev&theme=github-dark" alt="Contribution heatmap" width="100%" />
 </p>
 
 ---
