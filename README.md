@@ -74,6 +74,10 @@
 </table>
 
 <p align="center">
+  <img src="./profile-3d-contrib/profile-night-view.svg" alt="Contribution City: contribuições do último ano em 3D" width="100%" />
+</p>
+
+<p align="center">
   <img src="https://www.gitskins.com/api/section/heatmap?username=tmoreiradev&theme=github-dark" alt="Contribution heatmap" width="100%" />
 </p>
 
